@@ -409,3 +409,7 @@ footer p {
   border-radius: 50%;
   border: 5px solid rgba(109, 181, 174, 0.446);
 }
+
+.text-container {
+  text-align: justify;
+}
