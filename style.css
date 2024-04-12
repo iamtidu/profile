@@ -410,6 +410,6 @@ footer p {
   border: 5px solid rgba(109, 181, 174, 0.446);
 }
 
-.text-container {
+.text-container > p {
   text-align: justify;
 }
